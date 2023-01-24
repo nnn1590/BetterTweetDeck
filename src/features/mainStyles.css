@@ -133,6 +133,7 @@ html.dark .typeahead .js-hashtag {
   bottom: 280px;
 }
 
+html.dark .column-navigator-overflow,
 .column-navigator-overflow {
   bottom: 300px;
 }
